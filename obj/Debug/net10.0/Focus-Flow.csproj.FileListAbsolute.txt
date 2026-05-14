@@ -1,0 +1,14 @@
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\bin\Debug\net10.0\Focus-Flow.exe
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\bin\Debug\net10.0\Focus-Flow.deps.json
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\bin\Debug\net10.0\Focus-Flow.runtimeconfig.json
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\bin\Debug\net10.0\Focus-Flow.dll
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\bin\Debug\net10.0\Focus-Flow.pdb
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.AssemblyInfoInputs.cache
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.AssemblyInfo.cs
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.csproj.CoreCompileInputs.cache
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.dll
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\refint\Focus-Flow.dll
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.pdb
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\Focus-Flow.genruntimeconfig.cache
+D:\Koufc\Yazılım Çalışmaları\C#\Focus-Flow\obj\Debug\net10.0\ref\Focus-Flow.dll
